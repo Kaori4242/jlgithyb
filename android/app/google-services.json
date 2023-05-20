@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "125470200443",
+    "project_id": "jolga-16c48",
+    "storage_bucket": "jolga-16c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125470200443:android:ee4629ff627649048748de",
+        "android_client_info": {
+          "package_name": "com.example.jl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125470200443-1tnvk489pk719qrad3h0b0gjate58j1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNYwBNBJSuQIhNAtloX926v4svmwUsRLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125470200443-1tnvk489pk719qrad3h0b0gjate58j1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125470200443-iedta2h1cmivhltdp9r4ghtv4pai1lrr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
